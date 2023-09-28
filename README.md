@@ -3,7 +3,7 @@
 
 **RishiRagu2510/RishiRagu2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a passionate developer with a love for coding and problem-solving. I enjoy working on projects that challenge me and allow me to learn and grow.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
