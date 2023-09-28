@@ -32,5 +32,5 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumaravelu&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRagu2510&show_icons=true&theme=dark)
 
