@@ -34,3 +34,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRagu2510&show_icons=true&theme=dark)
 
+## Status
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRagu2510&theme=dark" alt="RishiRagu2510" /></p>
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RishiRagupathi&theme=dark)
