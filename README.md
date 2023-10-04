@@ -41,5 +41,5 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/Rishi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishi-ragupathy-3b3123245)
 [![X](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter)](https://twitter.com/RishiRagu2510)
