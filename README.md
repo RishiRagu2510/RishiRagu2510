@@ -38,3 +38,8 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRagu2510&theme=dark" alt="RishiRagu2510" /></p>
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RishiRagupathi&theme=dark)
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/Rishi)
+[![X](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter)](https://twitter.com/RishiRagu2510)
