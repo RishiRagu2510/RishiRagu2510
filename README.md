@@ -39,6 +39,10 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RishiRagupathi&theme=dark)
 
+## Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RishiRagu2510" alt="RishiRagu2510" /></a> </p>
+
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishi-ragupathy-3b3123245)
