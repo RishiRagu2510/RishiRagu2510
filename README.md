@@ -24,6 +24,12 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishiRagu2510&show_icons=true&theme=dark)
+
+
+
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRagu2510&show_icons=true&theme=dark)
