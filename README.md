@@ -29,7 +29,9 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Microcontroller](https://img.shields.io/badge/-Microcontroller-black?style=flat&logo=microcontroller)
 ![Scilab](https://img.shields.io/badge/-Scilab-black?style=flat&logo=scilab)
-
+![React.js](https://img.shields.io/badge/-React.js-black?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-black?style=flat)
 
 
 ## My GitHub Stats
