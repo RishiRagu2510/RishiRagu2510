@@ -23,6 +23,14 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Microcontroller](https://img.shields.io/badge/-Microcontroller-black?style=flat&logo=microcontroller)
+![Scilab](https://img.shields.io/badge/-Scilab-black?style=flat&logo=scilab)
+
+
 
 ## My GitHub Stats
 
