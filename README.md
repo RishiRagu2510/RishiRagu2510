@@ -1,10 +1,14 @@
-# <p align="center">Hi, I'm <strong>Rishi Ragupathy</strong> 👋</p>
+<h1 align="center">Hi, I'm <strong>Rishi Ragupathy</strong> 👋</h1>
+
 <p align="center">
   <em>Full-Stack Developer • QA Automation • Problem Solver</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&width=650&lines=Building+web+apps+%7C+Automating+tests+%7C+Java+Developer+%7C+Learning+new+tech+%7C" alt="typing"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+web+apps+%7C+Automating+tests+%7C+Java+Developer+%7C+Learning+new+tech" 
+    alt="Typing Animation"
+/>
 </p>
 
 <hr>
@@ -28,11 +32,16 @@
 <p align="center">⚙️ Tools & Technologies</p>
 <p align="center"> <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code"/> </p>
 <hr>
-<p align="center">📊 GitHub Analytics</p>
-<p align="center"> <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRagu2510&theme=dark&hide_border=false" /> </p> <p align="center"> <img width="600" src="https://github-readme-stats.vercel.app/api?username=RishiRagu2510&show_icons=true&theme=dark" /> </p> <p align="center"> <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRagu2510&layout=compact&theme=dark" /> </p>
 
-<p align="center">🏆 GitHub Trophies</p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RishiRagu2510&theme=onedark&no-frame=true&margin-w=10" /> </p>
+<p align="center">
+  <strong>Gamaro Website </strong> — HTML,CSS and JAVASCRIPT app with purchasing, likes, and commenting.  
+  <br>
+  <strong>Digital Wallet (Wallet)</strong> — Java + MySQL CRUD application for managing wallet accounts.
+</p>
+
+<p align="center">
+  <a href="#projects" style="text-decoration:none">View more projects →</a>
+</p>
 
 <p align="center">🐍 Contribution Snake</p>
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
