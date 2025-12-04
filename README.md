@@ -33,6 +33,7 @@
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-black?style=flat)
 ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-black?style=flat)
 
-<div align="center">
+## My GitHub Stats
 🔥 Streak Stats
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRagu2510&theme=dark&hide_border=false" width="600"/>
