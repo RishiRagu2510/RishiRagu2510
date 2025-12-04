@@ -1,11 +1,16 @@
 # <p align="center">Hi, I'm <strong>Rishi Ragupathy</strong> 👋</p>
+
 <p align="center">
-  <em>Full-Stack Developer • QA Automation • Problem Solver</em>
+  <em>Full-Stack Developer • Java Developer • QA Automation • Problem Solver</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&width=650&lines=Building+web+apps+%7C+Automating+tests+%7C+Learning+new+tech" alt="typing"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+web+apps;Automating+tests;Java+Developer;Learning+new+tech" 
+    alt="typing"
+/>
 </p>
+
 
 <hr>
 
