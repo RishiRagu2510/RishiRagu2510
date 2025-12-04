@@ -32,6 +32,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ![React.js](https://img.shields.io/badge/-React.js-black?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-black?style=flat)
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-black?style=flat)
 
 
 ## My GitHub Stats
