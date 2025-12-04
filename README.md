@@ -1,5 +1,4 @@
-<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px"> Hi, I'm Rishi Ragupathy
-🚀 Full-Stack Developer | 🧪 Automation & Manual QA | 🎯 Problem Solver
+<p align="center"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px"> Hi, I'm <strong>Rishi Ragupathy</strong></p>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Developer;Full+Stack+%7C+Automation+Tester;Always+Learning+New+Things;Love+Building+Creative+Projects" /> </p>
 
 - 🔭 I’m currently working on ...
@@ -33,11 +32,7 @@
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-black?style=flat)
 ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-black?style=flat)
 
-## My GitHub Stats
-<div align="center">
-🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRagu2510&theme=dark&hide_border=false" width="600"/>
-📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RishiRagu2510&show_icons=true&theme=dark" width="600"/>
-🧠 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRagu2510&layout=compact&theme=dark" width="500"/> </div>
+<p align="center">🛠️ Tech Stack</p>
+<p align="center">Languages & Frameworks</p>
+<p align="center"> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java"/> <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/-C-darkblue?style=for-the-badge&logo=c"/> <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/-Express.js-grey?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql"/> </p>
+
