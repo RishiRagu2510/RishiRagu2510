@@ -10,29 +10,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...�
 
-## Languages and Tools
-![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Microcontroller](https://img.shields.io/badge/-Microcontroller-black?style=flat&logo=microcontroller)
-![Scilab](https://img.shields.io/badge/-Scilab-black?style=flat&logo=scilab)
-![React.js](https://img.shields.io/badge/-React.js-black?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-black?style=flat)
-![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-black?style=flat)
-![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-black?style=flat)
-
 <p align="center">🛠️ Tech Stack</p>
 <p align="center">Languages & Frameworks</p>
 <p align="center"> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java"/> <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/-C-darkblue?style=for-the-badge&logo=c"/> <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/-Express.js-grey?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql"/> </p>
 
+<p align="center">🧪 Testing Tools</p>
+<p align="center"> <img src="https://img.shields.io/badge/-Manual%20Testing-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Automation%20Testing-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium"/> <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman"/> </p>
+
+<p align="center">⚙️ Tools & Technologies</p>
+<p align="center"> <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code"/> </p>
+
+<p align="center">📊 GitHub Analytics</p>
+<p align="center"> <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRagu2510&theme=dark&hide_border=false" /> </p> <p align="center"> <img width="600" src="https://github-readme-stats.vercel.app/api?username=RishiRagu2510&show_icons=true&theme=dark" /> </p> <p align="center"> <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRagu2510&layout=compact&theme=dark" /> </p>
