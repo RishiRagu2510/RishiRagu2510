@@ -24,7 +24,8 @@
 <p align="center"> <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRagu2510&theme=dark&hide_border=false" /> </p> <p align="center"> <img width="600" src="https://github-readme-stats.vercel.app/api?username=RishiRagu2510&show_icons=true&theme=dark" /> </p> <p align="center"> <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRagu2510&layout=compact&theme=dark" /> </p>
 
 <p align="center">🏆 GitHub Trophies</p>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RishiRagu2510&theme=onedark&margin-w=15" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RishiRagu2510&theme=onedark&no-frame=true&margin-w=10" /> </p>
+
 <p align="center">🐍 Contribution Snake</p>
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 
