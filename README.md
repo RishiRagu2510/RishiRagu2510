@@ -1,8 +1,6 @@
-### Hi there 👋👋👋
-
-**RishiRagu2510/RishiRagu2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm a passionate developer with a love for coding and problem-solving. I enjoy working on projects that challenge me and allow me to learn and grow.
+<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px"> Hi, I'm Rishi Ragupathy
+🚀 Full-Stack Developer | 🧪 Automation & Manual QA | 🎯 Problem Solver
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Developer;Full+Stack+%7C+Automation+Tester;Always+Learning+New+Things;Love+Building+Creative+Projects" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,7 +9,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...�
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
@@ -34,24 +32,3 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-black?style=flat)
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-black?style=flat)
 ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-black?style=flat)
-
-
-## My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishiRagu2510&show_icons=true&theme=dark)
-
-
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRagu2510&show_icons=true&theme=dark)
-
-
-## Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RishiRagu2510" alt="RishiRagu2510" /></a> </p>
-
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishi-ragupathy-3b3123245)
-[![X](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter)](https://twitter.com/RishiRagu2510)
