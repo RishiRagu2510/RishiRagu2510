@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&width=650&lines=Building+web+apps+%7C+Automating+tests+%7C+Learning+new+tech" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&width=650&lines=Building+web+apps+%7C+Automating+tests+%7C+Learning+new+tech+%7C" alt="typing"/>
 </p>
 
 <hr>
