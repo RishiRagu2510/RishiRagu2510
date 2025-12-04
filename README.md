@@ -34,6 +34,10 @@
 ![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-black?style=flat)
 
 ## My GitHub Stats
-🔥 Streak Stats
 <div align="center">
+🔥 Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRagu2510&theme=dark&hide_border=false" width="600"/>
+📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=RishiRagu2510&show_icons=true&theme=dark" width="600"/>
+🧠 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRagu2510&layout=compact&theme=dark" width="500"/> </div>
