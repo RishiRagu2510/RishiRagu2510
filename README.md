@@ -1,5 +1,21 @@
-<p align="center"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px"> Hi, I'm <strong>Rishi Ragupathy</strong></p>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+Developer;Full+Stack+%7C+Automation+Tester;Always+Learning+New+Things;Love+Building+Creative+Projects" /> </p>
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" style="max-width:100%; border-radius:12px;" />
+</p>
+
+<p align="center">
+  <img src="assets/logo.png" alt="Logo" width="96" height="96" style="border-radius:50%;" />
+</p>
+
+# <p align="center">Hi, I'm <strong>Rishi Ragupathy</strong> 👋</p>
+<p align="center">
+  <em>Full-Stack Developer • QA Automation • Problem Solver</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&width=650&lines=Building+web+apps+%7C+Automating+tests+%7C+Learning+new+tech" alt="typing"/>
+</p>
+
+<hr>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
