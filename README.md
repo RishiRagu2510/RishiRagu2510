@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" style="max-width:100%; border-radius:12px;" />
-</p>
-
-<p align="center">
-  <img src="assets/logo.png" alt="Logo" width="96" height="96" style="border-radius:50%;" />
-</p>
-
 # <p align="center">Hi, I'm <strong>Rishi Ragupathy</strong> 👋</p>
 <p align="center">
   <em>Full-Stack Developer • QA Automation • Problem Solver</em>
