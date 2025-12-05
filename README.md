@@ -25,13 +25,36 @@
 
 <p align="center">🛠️ Tech Stack</p>
 <p align="center">Languages & Frameworks</p>
-<p align="center"> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java"/> <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/-C-darkblue?style=for-the-badge&logo=c"/> <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/-Express.js-grey?style=for-the-badge&logo=express"/> <img src="https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql"/> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/> 
+  <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/-C-darkblue?style=for-the-badge&logo=c"/> 
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js"/> 
+  <img src="https://img.shields.io/badge/-Express.js-grey?style=for-the-badge&logo=express"/> 
+  <img src="https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/> 
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p
+                                                                                           
 <hr>
 <p align="center">🧪 Testing Tools</p>
-<p align="center"> <img src="https://img.shields.io/badge/-Manual%20Testing-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Automation%20Testing-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium"/>  </p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-Manual%20Testing-black?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/-Automation%20Testing-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium"/> 
+</p>
 <hr>
 <p align="center">⚙️ Tools & Technologies</p>
-<p align="center"> <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code"/> </p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/> 
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+</p>
 <hr>
 
 <p align="center">🏆 Profile Achievements</p>
