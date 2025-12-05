@@ -34,6 +34,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code"/> </p>
 <hr>
 
+<p>https://github.com/RishiRagu2510?tab=achievements</p>
 
 <p align="center">🐍 Contribution Snake</p>
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
