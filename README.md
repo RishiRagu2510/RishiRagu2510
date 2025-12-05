@@ -34,6 +34,19 @@
 <p align="center"> <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code"/> </p>
 <hr>
 
+<p align="center">🏆 Profile Achievements</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RishiRagu2510&theme=dracula&no-frame=true&margin-w=15" />
+</p>
+<hr>
+
+<p align="center">📈 Activity Graph</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiRagu2510&theme=react-dark" />
+</p>
 
 <p align="center">🌐 Connect With Me</p>
 <p align="center"> <a href="https://www.linkedin.com/in/rishi-ragupathy-3b3123245"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://twitter.com/RishiRagu2510"> <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/> </a> </p>
+
+
+
