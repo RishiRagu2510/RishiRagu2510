@@ -65,6 +65,13 @@
 </p>
 <hr>
 
+<p align="center">Status</p>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlzazNxY2VwaWxhbDRqbGZyaGlpOWs1YThlZXpoemZmMGFrYmJvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="350">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRagu2510&theme=dark" alt="streak stats"/>
+</p>
+<hr>
+
 <p align="center">📈 Activity Graph</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiRagu2510&theme=react-dark" />
