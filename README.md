@@ -64,6 +64,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RishiRagu2510&theme=dracula&no-frame=true&margin-w=15" />
 </p>
 <hr>
+<p align="center">⏱ WakaTime Coding Stats</p>
+<p align="center">
+  <img src="https://wakatime.com/share/@RishiRagupathi/a9cd9b9a-4511-4aef-ae26-1eaf8086be99.svg" alt="WakaTime Stats" width="500"/>
+  <img src="https://wakatime.com/share/@RishiRagupathi/c748441f-c59f-42f6-a3fc-80596c499224.svg" alt="WakaTime Weekly Stats" width="500"/>
+</p>
+<hr>
 
 <p align="center">Status</p>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlzazNxY2VwaWxhbDRqbGZyaGlpOWs1YThlZXpoemZmMGFrYmJvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="350">
