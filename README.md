@@ -66,8 +66,8 @@
 <hr>
 <p align="center">⏱ WakaTime Coding Stats</p>
 <p align="center">
-  <img src="https://wakatime.com/share/@RishiRagupathi/a9cd9b9a-4511-4aef-ae26-1eaf8086be99.svg" alt="WakaTime Stats" width="500"/>
-  <img src="https://wakatime.com/share/@RishiRagupathi/c748441f-c59f-42f6-a3fc-80596c499224.svg" alt="WakaTime Weekly Stats" width="500"/>
+  <img src="https://wakatime.com/share/@RishiRagupathi/a9cd9b9a-4511-4aef-ae26-1eaf8086be99.svg" alt="WakaTime Stats" width="350"/>
+  <img src="https://wakatime.com/share/@RishiRagupathi/c748441f-c59f-42f6-a3fc-80596c499224.svg" alt="WakaTime Weekly Stats" width="350"/>
 </p>
 <hr>
 
