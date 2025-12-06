@@ -3,7 +3,9 @@
 <p align="center">
   <em>Full-Stack Developer • Java Developer • QA Automation • Problem Solver</em>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RishiRagu&style=for-the-badge&color=blue"/>
+</p>
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+web+apps;Automating+tests;Java+Developer;Learning+new+tech" 
@@ -75,7 +77,4 @@
   </a> 
 </p>
 <hr>
-<p align="center">Visitor Count</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishiRagu&style=for-the-badge&color=blue"/>
-</p>
+
