@@ -72,11 +72,6 @@
 </p>
 <hr>
 
-<p align="center">📈 Activity Graph</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiRagu2510&theme=react-dark" />
-</p>
-
 <p align="center">🌐 Connect With Me</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rishi-ragupathy-3b3123245"> 
