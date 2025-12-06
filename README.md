@@ -70,7 +70,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRagu2510&theme=dark" alt="streak stats"/>
 </p>
+<hr>
 
+<hr>
 <p align="center">🌐 Connect With Me</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rishi-ragupathy-3b3123245"> 
