@@ -1,5 +1,5 @@
 # <p align="center">Hi, I'm <strong>Rishi Ragupathy</strong> 👋</p>
-
+<a href="https://wakatime.com/@2d35fac1-176b-4989-9d67-a7e8039a9844"><img src="https://wakatime.com/badge/user/2d35fac1-176b-4989-9d67-a7e8039a9844.svg" alt="Total time coded since Aug 28 2023" /></a>
 <p align="center">
   <em>Full-Stack Developer • Java Developer • QA Automation • Problem Solver</em>
 </p>
